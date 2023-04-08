@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hit-msc:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/hit_msc_war</output-path>
+    <root id="archive" name="hit-msc_war.war">
+      <element id="artifact" artifact-name="hit-msc:war exploded" />
+    </root>
+  </artifact>
+</component>
